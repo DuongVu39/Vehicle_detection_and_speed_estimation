@@ -32,10 +32,10 @@
 	"display": true,
 
 	// path the object detection model
-	"model_path": "MobileNetSSD_deploy.caffemodel",
+	"model_path": "src/MobileNetSSD_deploy.caffemodel",
 
 	// path to the prototxt file of the object detection model
-	"prototxt_path": "MobileNetSSD_deploy.prototxt",
+	"prototxt_path": "src/MobileNetSSD_deploy.prototxt",
 
 	// flag used to check if dropbox is to be used and dropbox access
 	// token
@@ -43,6 +43,6 @@
 	"dropbox_access_token": "YOUR_DROPBOX_APP_ACCESS_TOKEN",
 
 	// output directory and csv file name
-	"output_path": "output",
+	"output_path": "results",
 	"csv_name": "log.csv"
 }
