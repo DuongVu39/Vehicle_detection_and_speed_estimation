@@ -33,7 +33,7 @@ jinja2-time==0.2.0
 jmespath==0.9.4
 JSON-minify==0.3.0
 jupyter-client==5.3.4
-jupyter-core==4.6.1
+jupyter-core==4.11.2
 kiwisolver==1.1.0
 loguru==0.5.3
 MarkupSafe==1.1.1
