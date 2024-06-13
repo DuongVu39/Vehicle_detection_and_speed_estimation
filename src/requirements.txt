@@ -18,7 +18,7 @@ decorator==4.4.1
 dlib==19.19.0
 docutils==0.15.2
 fsspec==0.6.0
-future==0.18.2
+future==0.18.3
 idna==3.7
 imageio==2.6.1
 immutables==0.11
