@@ -79,4 +79,4 @@ urllib3==1.26.19
 wcwidth==0.1.7
 whichcraft==0.6.1
 win32-setctime==1.0.1
-zipp==0.6.0
+zipp==3.19.1
