@@ -42,7 +42,7 @@ memory-profiler==0.55.0
 mock==3.0.5
 more-itertools==8.0.2
 networkx==2.4
-numexpr==2.7.0
+numexpr==2.8.5
 numpy==1.22.0
 opencv-contrib-python==4.8.1.78
 packaging==19.2
